@@ -1,0 +1,35 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import url("https://fonts.googleapis.com/css?family=Roboto&display=swap"); */
+@import url("https://fonts.googleapis.com/css?family=Fira+Sans&display=swap");
+.col-center {
+  float: none;
+  margin: 0 auto;
+}
+
+.btn {
+  border: none;
+}
+
+.btn-primary {
+  background-color: teal !important;
+}
+
+.navbar {
+  background-color: teal !important;
+}
+
+* {
+  font-family: "system-ui", "Fira Sans", sans-serif;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+* {
+  outline: none;
+}
